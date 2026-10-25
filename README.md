@@ -181,6 +181,7 @@ More answers: [openkiwi.ai](https://openkiwi.ai/#questions) · Privacy in full: 
 
 - **Try Kiwi first:** [join the waitlist](https://openkiwi.ai/?s=github#signup)
 - **Questions, beta access, press:** [hello@openkiwi.ai](mailto:hello@openkiwi.ai)
+- **Follow along:** [YouTube](https://www.youtube.com/@openkiwiai) · [Instagram](https://www.instagram.com/openkiwi.ai/) · [TikTok](https://www.tiktok.com/@openkiwi) · [X (Connor)](https://x.com/ConnorOpenKiwi)
 - **Security:** please email [hello@openkiwi.ai](mailto:hello@openkiwi.ai) rather than opening a public issue
 
 ---
